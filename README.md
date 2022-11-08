@@ -1,5 +1,6 @@
 - Hi, I’m @sararimuro AKA Max! ^^
 - I’m interested in all things ICT, namely programming, problem solving, information security and game design.
+- Endlessly fascinated by technology: from the way we buy things and choose a movie for the evening to the way social media algorithms influence global way of thought, next election results and future climate policies.
 - I am a self-taught Pythonista with a good level of understanding of basic operators, functions, objects and the concenpts adjacent to them.
 - Currently studying information and comminucation technologies at Stadin ammattiopisto.
 - Through my degree studies I familiarized myself with such technologies as C, JavaScript, PHP, HTML, CSS, MySQL.
