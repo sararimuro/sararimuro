@@ -1,8 +1,11 @@
 - Hi, I’m @sararimuro AKA Max! ^^
 - I’m interested in all things ICT, namely programming, problem solving, information security and game design.
 - I am a self-taught Pythonista with a good level of understanding of basic operators, functions, objects and the concenpts adjacent to them.
-- Currently learning C, HTML and CSS through my degree studies at Stadin ammattiopisto.
+- Currently studying information and comminucation technologies at Stadin ammattiopisto.
+- Through my degree studies I familiarized myself with such technologies as C, JavaScript, PHP, HTML, CSS, MySQL.
+- I have basic understanding of data structures and algorithms and code optimization to an extent, and looking to learn more about the concepts through practical experience.
 - I’m looking for my first job in the ICT industry and opportunities to deepen my expertise in programming.
-- Always looking for tips, new challenges and opportunities to learn.
-- Based in Helsinki, Finland
+- I am using GitHub to host my practice projects and the schoolwork, as a little demonstration of the things I've learnt.
+- Always grateful for tips, new challenges and opportunities to learn!
+- Based in Helsinki Metropolitan Region, Finland
 - You can reach me by email at sararimuro@gmail.com!
