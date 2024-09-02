@@ -9,4 +9,4 @@
 - I am using GitHub to host my practice projects and the schoolwork, as a little demonstration of the things I've learnt.
 - Always grateful for tips, new challenges and opportunities to learn!
 - Based in Helsinki Metropolitan Region, Finland
-- You can reach me by email at sararimuro(at)gmail.com!
+- You can reach me by email at mxkaj.t(at)gmail.com!
